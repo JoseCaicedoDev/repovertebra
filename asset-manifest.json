@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.4387f1ed.chunk.css",
-    "main.js": "/repo/static/js/main.85d0936c.chunk.js",
-    "main.js.map": "/repo/static/js/main.85d0936c.chunk.js.map",
-    "runtime-main.js": "/repo/static/js/runtime-main.1c706f39.js",
-    "runtime-main.js.map": "/repo/static/js/runtime-main.1c706f39.js.map",
-    "static/css/2.43b2b750.chunk.css": "/repo/static/css/2.43b2b750.chunk.css",
-    "static/js/2.2a9b64cd.chunk.js": "/repo/static/js/2.2a9b64cd.chunk.js",
-    "static/js/2.2a9b64cd.chunk.js.map": "/repo/static/js/2.2a9b64cd.chunk.js.map",
-    "index.html": "/repo/index.html",
-    "static/css/2.43b2b750.chunk.css.map": "/repo/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.4387f1ed.chunk.css.map": "/repo/static/css/main.4387f1ed.chunk.css.map",
-    "static/js/2.2a9b64cd.chunk.js.LICENSE.txt": "/repo/static/js/2.2a9b64cd.chunk.js.LICENSE.txt",
-    "static/media/JC_negro.d188373f.png": "/repo/static/media/JC_negro.d188373f.png",
-    "static/media/Simbolo-vertebra.272898d7.svg": "/repo/static/media/Simbolo-vertebra.272898d7.svg",
-    "static/media/Navbar.css": "/repo/static/media/icomoon.f5e73a29.eot"
+    "main.css": "/static/css/main.7c0ce600.chunk.css",
+    "main.js": "/static/js/main.21a2f0a3.chunk.js",
+    "main.js.map": "/static/js/main.21a2f0a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86882866.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86882866.js.map",
+    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
+    "static/js/2.2a9b64cd.chunk.js": "/static/js/2.2a9b64cd.chunk.js",
+    "static/js/2.2a9b64cd.chunk.js.map": "/static/js/2.2a9b64cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.7c0ce600.chunk.css.map": "/static/css/main.7c0ce600.chunk.css.map",
+    "static/js/2.2a9b64cd.chunk.js.LICENSE.txt": "/static/js/2.2a9b64cd.chunk.js.LICENSE.txt",
+    "static/media/JC_negro.d188373f.png": "/static/media/JC_negro.d188373f.png",
+    "static/media/Simbolo-vertebra.272898d7.svg": "/static/media/Simbolo-vertebra.272898d7.svg",
+    "static/media/Navbar.css": "/static/media/icomoon.f5e73a29.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c706f39.js",
+    "static/js/runtime-main.86882866.js",
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.2a9b64cd.chunk.js",
-    "static/css/main.4387f1ed.chunk.css",
-    "static/js/main.85d0936c.chunk.js"
+    "static/css/main.7c0ce600.chunk.css",
+    "static/js/main.21a2f0a3.chunk.js"
   ]
 }
