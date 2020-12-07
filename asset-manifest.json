@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c0ce600.chunk.css",
-    "main.js": "/static/js/main.21a2f0a3.chunk.js",
-    "main.js.map": "/static/js/main.21a2f0a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.86882866.js",
-    "runtime-main.js.map": "/static/js/runtime-main.86882866.js.map",
-    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
-    "static/js/2.2a9b64cd.chunk.js": "/static/js/2.2a9b64cd.chunk.js",
-    "static/js/2.2a9b64cd.chunk.js.map": "/static/js/2.2a9b64cd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.7c0ce600.chunk.css.map": "/static/css/main.7c0ce600.chunk.css.map",
-    "static/js/2.2a9b64cd.chunk.js.LICENSE.txt": "/static/js/2.2a9b64cd.chunk.js.LICENSE.txt",
-    "static/media/JC_negro.d188373f.png": "/static/media/JC_negro.d188373f.png",
-    "static/media/Simbolo-vertebra.272898d7.svg": "/static/media/Simbolo-vertebra.272898d7.svg",
-    "static/media/Navbar.css": "/static/media/icomoon.f5e73a29.eot"
+    "main.css": "/repovertebra/static/css/main.a20fe859.chunk.css",
+    "main.js": "/repovertebra/static/js/main.21a2f0a3.chunk.js",
+    "main.js.map": "/repovertebra/static/js/main.21a2f0a3.chunk.js.map",
+    "runtime-main.js": "/repovertebra/static/js/runtime-main.24c8d0de.js",
+    "runtime-main.js.map": "/repovertebra/static/js/runtime-main.24c8d0de.js.map",
+    "static/css/2.43b2b750.chunk.css": "/repovertebra/static/css/2.43b2b750.chunk.css",
+    "static/js/2.2a9b64cd.chunk.js": "/repovertebra/static/js/2.2a9b64cd.chunk.js",
+    "static/js/2.2a9b64cd.chunk.js.map": "/repovertebra/static/js/2.2a9b64cd.chunk.js.map",
+    "index.html": "/repovertebra/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/repovertebra/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.a20fe859.chunk.css.map": "/repovertebra/static/css/main.a20fe859.chunk.css.map",
+    "static/js/2.2a9b64cd.chunk.js.LICENSE.txt": "/repovertebra/static/js/2.2a9b64cd.chunk.js.LICENSE.txt",
+    "static/media/JC_negro.d188373f.png": "/repovertebra/static/media/JC_negro.d188373f.png",
+    "static/media/Simbolo-vertebra.272898d7.svg": "/repovertebra/static/media/Simbolo-vertebra.272898d7.svg",
+    "static/media/Navbar.css": "/repovertebra/static/media/icomoon.f5e73a29.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.86882866.js",
+    "static/js/runtime-main.24c8d0de.js",
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.2a9b64cd.chunk.js",
-    "static/css/main.7c0ce600.chunk.css",
+    "static/css/main.a20fe859.chunk.css",
     "static/js/main.21a2f0a3.chunk.js"
   ]
 }
